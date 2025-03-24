@@ -1,0 +1,14 @@
+15:56:28 => first log message!
+15:56:28 => //home/wanzhan/Desktop/wanmprpc/example/callee/friendservice.cc:main:44
+23:27:39 => [error]first log message!
+23:27:39 => [info]//home/wanzhan/Desktop/wanmprpc/example/callee/friendservice.cc:main:44
+23:27:39 => [info]service_name: FriendsServiceWanRpc
+23:27:39 => [info]method: GetFriendLists
+23:36:2 => [error]first log message!
+23:36:2 => [error]//home/wanzhan/Desktop/wanmprpc/example/callee/friendservice.cc:main:44
+23:36:2 => [info]service_name: FriendsServiceWanRpc
+23:36:2 => [info]method: GetFriendLists
+23:53:42 => [error]first log message!
+23:53:42 => [error]//home/wanzhan/Desktop/wanmprpc/example/callee/friendservice.cc:main:44
+23:53:42 => [info]service_name: FriendsServiceWanRpc
+23:53:42 => [info]method: GetFriendLists
